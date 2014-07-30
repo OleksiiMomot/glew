@@ -11,3 +11,6 @@
 /bin
 /lib
 /tmp
+build/vc10/bin/**
+build/vc10/Debug.Win32/**
+build/vc10/Release.Win32/**
